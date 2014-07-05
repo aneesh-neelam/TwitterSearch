@@ -1,4 +1,4 @@
-TwitterSearch
-=============
+TwitterSearch-Android
+=====================
 
-A simple app, that searches Twitter for a tweets pertaining to a particular handle or hashtag. 
+A simple Android app, that searches Twitter for a tweets pertaining to a particular handle or hashtag
